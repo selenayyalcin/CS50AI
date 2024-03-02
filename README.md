@@ -1,7 +1,7 @@
 
 # Harvard University - CS50AI: Artificial Intelligence with Python
-
 This repository contains my solutions to the CS50AI's 2024 version, taught by Brian Yu and David J. Malan. 
+
 ## All subjects in the course:
 - Search
 - Knowledge
@@ -35,3 +35,24 @@ This project employs the breadth-first search algorithm to determine the "degree
 This project presents a simple Tic-Tac-Toe game with an AI opponent using the minimax algorithm to achieve an optimal strategy.
 
 <a href="https://cs50.harvard.edu/ai/2024/projects/0/tictactoe/" target="_blank">Here is the full assignment for **_tic-tac-toe_**</a>
+
+## Week 1 - Knowledge
+This module focuses on knowledge representation and logical reasoning, providing a structured approach for machines to comprehend and solve deductive problems algorithmically.
+
+- Propositional Logic
+- Inference
+- Knowledge Engineering
+- Inference Rules
+- Resolution
+- First Order Logic
+
+### Project 1a: Knights
+This project's task is to create an AI program for solving "Knights and Knaves" logic puzzles, where characters are either always truthful (knights) or always lying (knaves).
+
+<a href="https://cs50.harvard.edu/ai/2024/projects/1/knights/" target="_blank">Here is the full assignment for **_knights_**</a>
+
+### Project 1b: Minesweeper
+The project involves creating an AI capable of playing Minesweeper, a puzzle game where players avoid hidden mines while uncovering tiles. 
+
+<a href="https://cs50.harvard.edu/ai/2024/projects/1/minesweeper/" target="_blank">Here is the full assignment for **_minesweeper_**</a>
+
