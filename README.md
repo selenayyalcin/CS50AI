@@ -56,3 +56,25 @@ The project involves creating an AI capable of playing Minesweeper, a puzzle gam
 
 <a href="https://cs50.harvard.edu/ai/2024/projects/1/minesweeper/" target="_blank">Here is the full assignment for **_minesweeper_**</a>
 
+## Week 2 - Uncertainty
+Covers the basic principles of probability theory in AI, including conditional probability, random variables, and probability distributions. It also introduces concepts like entropy, Monte Carlo methods, and classifiers for handling uncertainty in AI.
+
+- Probability
+- Conditional Probability
+- Bayes’ Rule
+- Joint Probability
+- Probability Rules
+- Bayesian Networks
+- Sampling
+- Markov Models
+- Hidden Markov Models
+
+### Project 2a: PageRank
+This project implements an AI that ranks web pages using the Pagerank algorithm, which considers the number and quality of links pointing to a page.
+
+<a href="https://cs50.harvard.edu/ai/2024/projects/2/pagerank/" target="_blank">Here is the full assignment for **_pagerank_**</a>
+
+### Project 2b: Heredity
+The project predicts the likelihood of a child having a certain genetic trait based on their parents' traits, using Bayesian networks and conditional probability.
+
+<a href="https://cs50.harvard.edu/ai/2024/projects/2/heredity/" target="_blank">Here is the full assignment for **_heredity_**</a>
