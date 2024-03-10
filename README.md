@@ -78,3 +78,25 @@ This project implements an AI that ranks web pages using the Pagerank algorithm,
 The project predicts the likelihood of a child having a certain genetic trait based on their parents' traits, using Bayesian networks and conditional probability.
 
 <a href="https://cs50.harvard.edu/ai/2024/projects/2/heredity/" target="_blank">Here is the full assignment for **_heredity_**</a>
+
+## Week 3 - Optimization
+This lecture provides a solid foundation for understanding optimization algorithms and their applications in various problem-solving scenarios.
+
+- Local Search
+- Hill Climbing
+- Local and Global Minima and Maxima
+- Hill Climbing Variants
+- Simulated Annealing
+- Traveling Salesman Problem
+- Linear Programming
+- Constraint Satisfaction
+- Node Consistency
+- Arc Consistency
+- Backtracking Search
+- Inference
+- Heuristics for Backtracking Search
+
+### Project 3: Crossword
+This project aims to develop an AI program that generates crossword puzzles by putting words into a grid while following rules.
+
+<a href="https://cs50.harvard.edu/ai/2024/projects/3/crossword/" target="_blank">Here is the full assignment for **_crossword_**</a>
