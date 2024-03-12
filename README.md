@@ -100,3 +100,23 @@ This lecture provides a solid foundation for understanding optimization algorith
 This project aims to develop an AI program that generates crossword puzzles by putting words into a grid while following rules.
 
 <a href="https://cs50.harvard.edu/ai/2024/projects/3/crossword/" target="_blank">Here is the full assignment for **_crossword_**</a>
+
+## Week 4 - Learning
+Covers the introduction of different ways computers learn from data, like making predictions or finding patterns.
+
+- Supervised Learning
+- Regression
+- Overfitting and Regularization
+- Model Evaluation and scikit-learn
+- Reinforcement Learning
+- Unsupervised Learning
+
+### Project 4a: Shopping
+This project aims to create an AI that predicts whether online shoppers will make a purchase, using factors like browsing history and session duration.
+
+<a href="https://cs50.harvard.edu/ai/2024/projects/3/crossword/" target="_blank">Here is the full assignment for **_shopping_**</a>
+
+### Project 4b: Nim
+This project involves building an AI that learns to play Nim through reinforcement learning. The AI learns by playing against itself repeatedly, updating Q-values for state-action pairs based on the outcomes of its games. 
+
+<a href="https://cs50.harvard.edu/ai/2024/projects/3/crossword/" target="_blank">Here is the full assignment for **_nim_**</a>
