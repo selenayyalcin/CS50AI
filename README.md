@@ -120,3 +120,24 @@ This project aims to create an AI that predicts whether online shoppers will mak
 This project involves building an AI that learns to play Nim through reinforcement learning. The AI learns by playing against itself repeatedly, updating Q-values for state-action pairs based on the outcomes of its games. 
 
 <a href="https://cs50.harvard.edu/ai/2024/projects/3/crossword/" target="_blank">Here is the full assignment for **_nim_**</a>
+
+## Week 5 - Neural Networks
+This lecture covers the essentials of neural networks, including their structure, activation functions, training methods, and practical applications like computer vision and recurrent networks. It also demonstrates how to implement these concepts using TensorFlow.
+
+- Neural Networks
+- Activation Functions
+- Neural Network Structure
+- Gradient Descent
+- Multilayer Neural Networks
+- Backpropagation
+- Overfitting
+- TensorFlow
+- Computer Vision
+- Image Convolution
+- Convolutional Neural Networks
+- Recurrent Neural Networks
+
+### Project 5: Traffic
+The project involves using TensorFlow to build a neural network that can classify road signs based on images.
+
+<a href="https://cs50.harvard.edu/ai/2024/projects/5/traffic/" target="_blank">Here is the full assignment for **_traffic_**</a>
