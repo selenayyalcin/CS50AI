@@ -141,3 +141,32 @@ This lecture covers the essentials of neural networks, including their structure
 The project involves using TensorFlow to build a neural network that can classify road signs based on images.
 
 <a href="https://cs50.harvard.edu/ai/2024/projects/5/traffic/" target="_blank">Here is the full assignment for **_traffic_**</a>
+
+## Week 6 - Language
+The last week explores Natural Language Processing (NLP) techniques, from basic tasks like summarization to advanced methods such as word representation and transformer architectures, all aimed at improving AI's understanding and processing of human language.
+
+- Natural Language Processing (NLP)
+- Syntax and Semantics
+- Context-Free Grammar
+- nltk (Natural Language Toolkit)
+- n-grams
+- Tokenization
+- Markov Models
+- Bag-of-Words Model
+- Naive Bayes
+- Word Representation
+- word2vec
+- Neural Networks
+- Recurrent Neural Networks
+- Attention
+- Transformers
+
+### Project 6a: Parser
+The project involves writing an AI program that parses English sentences to extract noun phrases. It utilizes context-free grammar rules to analyze the structure of sentences and identify noun phrases, which are crucial for understanding the meaning of the sentences.
+
+<a href="https://cs50.harvard.edu/ai/2024/projects/6/parser/" target="_blank">Here is the full assignment for **_parser_**</a>
+
+### Project 6b: Attention
+The last project is about building an AI program to predict masked words in a text sequence using BERT, a transformer-based language model. Additionally, the program will generate diagrams visualizing attention scores to analyze what BERT's attention heads focus on during language understanding.
+
+<a href="https://cs50.harvard.edu/ai/2024/projects/6/attention/" target="_blank">Here is the full assignment for **_attention_**</a>
